@@ -17,8 +17,8 @@ Usage
 
 To build and run the toy robot simulator, run the following commands from the project root
 
-$ gradle build
-$ java -jar build/libs/robot-simulator-0.0.1-SNAPSHOT.jar {filename}
+    $ gradle build
+    $ java -jar build/libs/robot-simulator-0.0.1-SNAPSHOT.jar {filename}
 
 The application takes a single argument 'filename', which must be a valid relative path or absolute file path.
 
