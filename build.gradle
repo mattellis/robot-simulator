@@ -17,7 +17,7 @@ apply plugin: 'spring-boot'
 apply plugin: 'groovy'
 
 jar {
-	baseName = 'rea-robot'
+    baseName = 'robot-simulator'
 	version = '0.0.1-SNAPSHOT'
 }
 sourceCompatibility = 1.8
