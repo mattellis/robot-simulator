@@ -1,0 +1,5 @@
+spring:
+  application.name: robot-simulator
+
+table:
+  size: 5
